@@ -71,9 +71,9 @@ st.dataframe(filtered_df[['Income', 'Credit Score', 'Loan Amount', 'Assets Value
 st.markdown("""
     <style>
     .stMetric {
-        color: #FF4500;
-        background-color: #F5F5F5;
-        border: 2px solid #FFA500;
+        color: #F2B071;
+        background-color: #F2B071;
+        border: 2px solid #F2B071;
     }
     .stBarChart {
         color: #FFA500;
