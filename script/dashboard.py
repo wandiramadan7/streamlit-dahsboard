@@ -28,14 +28,7 @@ with st.container():
         """
         <style>
         .row1 {
-            background-color: #ffaa00; 
-            padding: 10px;
-            border-radius: 5px;
-            display: flex;
-            gap: 10px; /* Space between columns */
-        }
-        .col {
-            background-color: #ffaa00;
+            background-color: #ff5e00; 
             padding: 10px;
             border-radius: 5px;
         }
@@ -89,7 +82,6 @@ with st.container():
             background-color: #ffaa00; 
             padding: 10px;
             border-radius: 5px;
-            border: 2px solid #ffaa00;
         }
         </style>
         <div class="row1">
