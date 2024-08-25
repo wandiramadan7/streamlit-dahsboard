@@ -1,1 +1,1 @@
-# streamlit-dahsboard
+# streamlit-dashboard
